@@ -1,9 +1,6 @@
 # Su-Face-Recognition
 A face recognition for user logining.
 
-<img src="[[https://img-blog.csdnimg.cn/2020102116384135.png](https://github.com/Usernamesisnotavailable/Su-Face-Recognition/blob/master/Logo.jpg)]" width="100px">
-
-
 ## 上手指南
     人脸识别用户登录系统
     实现的功能包括人脸识别、活体检测（静默+交互）、背景模糊、姿态检测、人脸比对、用户登录登出注册操作、管理员相关操作等
@@ -24,3 +21,5 @@ A face recognition for user logining.
 
 ## 运行
     本项目的启动脚本为main.py,点击运行后出现开始界面，选择用户端或者管理员端进行操作。
+
+![image](https://github.com/Usernamesisnotavailable/Su-Face-Recognition/blob/master/Logo.jpg)
