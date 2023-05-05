@@ -1,6 +1,8 @@
 # Su-Face-Recognition
 A face recognition for user logining.
 
+<img src="https://github.com/Usernamesisnotavailable/Su-Face-Recognition/blob/master/Logo.jpg" width="200" height="200"/><br/>
+
 ## 上手指南
     人脸识别用户登录系统
     实现的功能包括人脸识别、活体检测（静默+交互）、背景模糊、姿态检测、人脸比对、用户登录登出注册操作、管理员相关操作等
