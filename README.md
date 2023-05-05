@@ -1,7 +1,7 @@
 # Su-Face-Recognition
 A face recognition for user logining.
 
-
+![image](https://github.com/Usernamesisnotavailable/Su-Face-Recognition/blob/master/Logo.jpg)
 
 1.基本环境
     安全人脸识别系统能够运行在基于PC操作系统Windows环境下，要求Windows操作系统安装Python 3.8 及以上环境，且已安装MySQL数据库系统。
