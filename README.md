@@ -16,7 +16,7 @@ A face recognition for user logining.
 ### 2.创建数据库
     系统运行要求 MySQL 数据库中已创建表user、admin、warn表，初始通过脚本进行创建：
     （1）首先打开 conf/dataBase.conf 配置文件，修改相应的数据库连接参数；
-    （2）点击运行 init_tables.py 脚本，自动创建数据库以及表，并插入管理员初始账号密码；
+    （2）点击运行 init.py 脚本，自动创建数据库以及表，并插入管理员初始账号密码；
     （3）管理员初始账号为"root",密码为"root"。
 
 ## 运行
