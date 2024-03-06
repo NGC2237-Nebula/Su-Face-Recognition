@@ -1,5 +1,5 @@
-# Su-Face-Recognition
-A face recognition for user logining.
+# 人脸识别系统
+用于用户登录的安全人脸识别系统，实现人脸识别、活体检测、背景模糊、姿态检测、人脸比对等功能
 
 ## 上手指南
     实现的功能包括
